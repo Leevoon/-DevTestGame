@@ -1,0 +1,11 @@
+{
+  "row": 10,
+  "col": 8,
+  "moves_count": 80,
+  "figures_count": 5,
+  "objectives": [
+    "Red 10",
+    "Green 10",
+    "Orange 10"
+  ]
+}
